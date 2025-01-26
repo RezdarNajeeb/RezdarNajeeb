@@ -8,22 +8,26 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <a href="mailto:rezdar.00166214@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rezdar-najeeb-52b794241">
-    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://buymeacoffee.com/rezdar">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rezdar.00166214@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezdar-najeeb-52b794241)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rezdar)
+  
 </div>
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> About Me
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 ```php
@@ -70,65 +74,19 @@ class RezdarNajeeb extends Developer
   <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,docker,vscode&perline=5" />
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Development Stack
+<br/>
 
 <div align="center">
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'fontFamily': 'arial', 'fontSize': '20px'}}}%%
-mindmap
-  root((Rezdar))
-    Backend
-      Laravel
-        RESTful APIs
-        MVC Pattern
-      PHP
-        OOP
-        Design Patterns
-      MySQL
-        Database Design
-        Optimization
-    Frontend
-      HTML5
-        Semantic
-        Accessibility
-      CSS3
-        Flexbox
-        Grid
-      JavaScript
-        ES6+
-        DOM
-      Tailwind
-        Responsive
-        Components
-    Mobile
-      Flutter
-        UI/UX
-        State Management
-      Dart
-        OOP
-        Async
-    Tools
-      Postman
-        API Testing
-        Documentation
-      Git
-        Version Control
-        Collaboration
-      Docker
-        Containerization
-```
-
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&lineCount=2&theme=catppuccin_mocha&hideBg=true&hideTitle=true&line1=laravel,laravel,auto;php,php,auto;javascript,javascript,auto;flutter,flutter,auto;tailwind,tailwind,auto;&line2=mysql,mysql,auto;git,git,auto;docker,docker,auto;postman,postman,auto;vscode,vscode,auto;" alt="Tech Stack" />
 </div>
 
 ## <img src="https://media.giphy.com/media/uhQuegHvQoIoJNHQUY/giphy.gif" width="35"> Latest Projects
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
+  
+  <!-- Replace username with your GitHub username -->
+  ![Snake animation](https://github.com/{RezdarNajeeb}/portfolio/blob/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
 
 ## <img src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="35"> Let's Connect!
@@ -148,8 +106,11 @@ mindmap
 </div>
 
 ---
+
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=coffee&logoColor=black" />
+  <a href="https://buymeacoffee.com/rezdar">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
+  </a>
   <br />
   <sub>Let's turn coffee into code! ☕️✨</sub>
 </div>
