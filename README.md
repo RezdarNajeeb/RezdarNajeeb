@@ -12,9 +12,17 @@
 
 <div align="center">
   
-  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rezdar.00166214@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezdar-najeeb-52b794241)
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rezdar)
+  <a href="mailto:rezdar.00166214@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" height="50" alt="Gmail" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/rezdar-najeeb-52b794241" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://buymeacoffee.com/rezdar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
   
 </div>
 
@@ -71,21 +79,14 @@ class RezdarNajeeb extends Developer
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,docker,vscode&perline=5" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&lineCount=2&theme=catppuccin_mocha&hideBg=true&hideTitle=true&line1=laravel,laravel,auto;php,php,auto;javascript,javascript,auto;flutter,flutter,auto;tailwind,tailwind,auto;&line2=mysql,mysql,auto;git,git,auto;docker,docker,auto;postman,postman,auto;vscode,vscode,auto;" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&perline=5" />
 </div>
 
 ## <img src="https://media.giphy.com/media/uhQuegHvQoIoJNHQUY/giphy.gif" width="35"> Latest Projects
 
 <div align="center">
   
-  <!-- Replace username with your GitHub username -->
-  ![Snake animation](https://github.com/{RezdarNajeeb}/portfolio/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/RezdarNajeeb/portfolio/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
