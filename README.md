@@ -74,12 +74,13 @@ class RezdarNajeeb extends Developer
   <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&perline=5" />
 </div>
 
-## <img src="https://media.giphy.com/media/uhQuegHvQoIoJNHQUY/giphy.gif" width="35"> Latest Projects
-
+## <img src="https://media.giphy.com/media/uhQuegHvQoIoJNHQUY/giphy.gif" width="35"> GitHub Contributions
 <div align="center">
-
-  ![Snake animation](https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake-dark.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ## <img src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="35"> Let's Connect!
