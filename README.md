@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey there! I'm Rezdar Najeeb
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey there! I'm Rezdar Najeeb
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00B8B5&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Web+Developer;Laravel+Backend+Specialist" alt="Typing SVG" />
 </div>
