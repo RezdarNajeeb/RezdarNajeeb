@@ -1,29 +1,21 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey there! I'm Rezdar Najeeb
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey there! I'm Rezdar Najeeb
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00B8B5&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Web+Developer;Laravel+Backend+Specialist" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
-
 <br/>
-
 <div align="center">
-  
   <a href="mailto:rezdar.00166214@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" height="50" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  
   <a href="https://www.linkedin.com/in/rezdar-najeeb-52b794241" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  
   <a href="https://buymeacoffee.com/rezdar" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" alt="Buy Me a Coffee" />
   </a>
-  
 </div>
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> About Me
@@ -82,12 +74,13 @@ class RezdarNajeeb extends Developer
   <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&perline=5" />
 </div>
 
-## <img src="https://media.giphy.com/media/uhQuegHvQoIoJNHQUY/giphy.gif" width="35"> Latest Projects
-
+## <img src="https://media.giphy.com/media/uhQuegHvQoIoJNHQUY/giphy.gif" width="35"> GitHub Contributions
 <div align="center">
-  
-  ![Snake animation](https://github.com/RezdarNajeeb/portfolio/blob/output/github-contribution-grid-snake-dark.svg)
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ## <img src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="35"> Let's Connect!
