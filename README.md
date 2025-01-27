@@ -63,7 +63,11 @@ class RezdarNajeeb extends Developer
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=light" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github" />
+  </picture>
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> GitHub Contributions
@@ -79,7 +83,7 @@ class RezdarNajeeb extends Developer
 
 <div align="center">
   <p>Feel free to reach out if you want to:</p>
-  <ul align="left" style="list-style-type: none; padding-left: 0;">
+  <ul align="left" style="list-style: none">
     <li>🤝 Collaborate on exciting projects</li>
     <li>💬 Discuss web development and tech</li>
     <li>🎯 Explore new opportunities</li>
