@@ -63,10 +63,10 @@ class RezdarNajeeb extends Developer
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github" />
 </div>
 
-## <img src="https://media.giphy.com/media/uhQuegHvQoIoJNHQUY/giphy.gif" width="35"> GitHub Contributions
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwcG84azhiZWJhNjJqM3I0NTM1dmFteXdsanA3MDZ4a3k0M2I4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> GitHub Contributions
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake-dark.svg" />
