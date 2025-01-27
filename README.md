@@ -44,7 +44,7 @@ class RezdarNajeeb
     {
         return [
             '2024.8-2024.9' => 'Laravel Developer at Syntax Company',
-            '2024-now' => 'Full-Stack Developer as Freelancer'
+            '2024-now' => 'Web Developer as Freelancer'
         ];
     }
 
@@ -56,7 +56,7 @@ class RezdarNajeeb
     }
 }
 ```
-> **"Programming is the way we turn ideas into actions and dreams into reality."**
+> *"Programming is the way we turn ideas into actions and dreams into reality."*
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Skills & Technologies
 
