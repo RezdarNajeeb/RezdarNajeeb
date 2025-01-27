@@ -64,20 +64,20 @@ class RezdarNajeeb extends Developer
 
 <div align="center">
   <picture>
-    <!-- Dark theme icons -->
+    <!-- Dark theme -->
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=dark" 
+      srcset="https://skillicons.dev/icons?i=laravel&theme=dark" 
     />
-    <!-- Light theme icons -->
+    <!-- Light theme -->
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=light" 
+      srcset="https://skillicons.dev/icons?i=laravel&theme=light" 
     />
-    <!-- Fallback for unsupported environments -->
+    <!-- Fallback -->
     <img 
-      src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github" 
-      alt="Skill Icons" 
+      src="https://skillicons.dev/icons?i=laravel" 
+      alt="Laravel Icon" 
     />
   </picture>
 </div>
