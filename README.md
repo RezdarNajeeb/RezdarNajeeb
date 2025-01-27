@@ -56,7 +56,7 @@ class RezdarNajeeb
     }
 }
 ```
->>> **"Programming is the way we turn ideas into actions and dreams into reality."**
+>>> **"Programming is the way we turn ideas into actions and dreams into reality."**>>>
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Skills & Technologies
 
