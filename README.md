@@ -64,21 +64,74 @@ class RezdarNajeeb extends Developer
 
 <div align="center">
   <picture>
-    <!-- Dark theme -->
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=dark" 
-    />
-    <!-- Light theme -->
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=light" 
-    />
-    <!-- Fallback -->
-    <img 
-      src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github" 
-      alt="Skill Icons" 
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel&theme=light" />
+    <img src="https://skillicons.dev/icons?i=laravel" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light" />
+    <img src="https://skillicons.dev/icons?i=css" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter&theme=light" />
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dart&theme=light" />
+    <img src="https://skillicons.dev/icons?i=dart" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </picture>
 </div>
 
