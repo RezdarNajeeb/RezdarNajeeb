@@ -64,9 +64,21 @@ class RezdarNajeeb extends Developer
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=light" />
-    <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github" />
+    <!-- Dark theme icons -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=dark" 
+    />
+    <!-- Light theme icons -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=light" 
+    />
+    <!-- Fallback for unsupported environments -->
+    <img 
+      src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github" 
+      alt="Skill Icons" 
+    />
   </picture>
 </div>
 
@@ -83,7 +95,7 @@ class RezdarNajeeb extends Developer
 
 <div align="center">
   <p>Feel free to reach out if you want to:</p>
-  <div>
+  <div align="left">
     🤝 Collaborate on exciting projects<br>
     💬 Discuss web development and tech<br>
     🎯 Explore new opportunities<br>
