@@ -43,25 +43,22 @@ class RezdarNajeeb
     public function workExperience(): array
     {
         return [
-            '2023-now' => 'Memeber group of IT Group Solutions',
-            '2022.5-2022.10' => 'Software Developer at peshawa',
-            '2019-2022' => 'Memeber group of Scorpion Shield and Security',
-            '2017-now' => 'Full-Stack Developer as Freelancer'
+            '2024.8-2024.9' => 'Laravel Developer at Syntax Company',
+            '2024-now' => 'Full-Stack Developer as Freelancer'
         ];
     }
 
     public function education(): array
     {
         return [
-            '2017-2019' => 'Diploma of IT in Computer Science',
-            '2019-2023' => 'Bachelor of IT Informatics/IT'
+            '2021-2025' => 'Bachelor of Software Engineering'
         ];
     }
 
     public function skillsAndTechnologies (): array
     {
         return [
-            'Skills & Technologies' => '[Skills & Technologies](#skills--technologies)'
+            'Skills & Technologies' => [Skills & Technologies](#skills--technologies)
         ];
     }
 }
