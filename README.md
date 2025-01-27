@@ -25,40 +25,61 @@
 ```php
 <?php
 
-namespace App\Developers;
+namespace App\About;
 
-class RezdarNajeeb extends Developer
+class RezdarNajeeb
 {
-    public function getCurrentWorkplace(): array
+    private string $name;
+    private string $email;
+    private string $phone_number;
+
+    public function __construct()
+    {
+        $this->name = 'Rezdar Najeeb';
+        $this->email = 'rezdar.00166214@gmail.com';
+        $this->phone_number = '07501406655';
+    }
+
+    public function workExperience(): array
     {
         return [
-            '🏢 workplace' => [
-                '💼 position' => 'Software Engineer',
-                '🎯 specialization' => 'Laravel Backend Specialist'
-            ]
+            '2023-now' => 'Memeber group of IT Group Solutions',
+            '2022.5-2022.10' => 'Software Developer at peshawa',
+            '2019-2022' => 'Memeber group of Scorpion Shield and Security',
+            '2017-now' => 'Full-Stack Developer as Freelancer'
         ];
     }
 
-    public function getDailyKnowledge(): array
+    public function education(): array
     {
         return [
-            '⚡ PHP' => ['Laravel', 'RESTful APIs', 'MVC Pattern'],
-            '🚀 Frontend' => ['JavaScript', 'HTML5', 'CSS3', 'Tailwind'],
-            '📱 Mobile' => ['Flutter', 'Dart'],
-            '🛠 Tools' => ['Git', 'Postman', 'MySQL']
+            '2017-2019' => 'Diploma of IT in Computer Science',
+            '2019-2023' => 'Bachelor of IT Informatics/IT'
         ];
     }
 
-    public function getFutureGoals(): array
+    public function skills(): array
     {
         return [
-            '🎯 Master System Design Patterns',
-            '🌟 Contribute to Open Source',
-            '📚 Share Knowledge Through Blog Posts'
+            'PHP',
+            'Laravel',
+            'Java',
+            'Python',
+            'HTML',
+            'CSS',
+            'JavaScript',
+            'Tailwind',
+            'Flutter',
+            'Dart',
+            'MySQL',
+            'Postman',
+            'Git',
+            'GitHub'
         ];
     }
 }
 ```
+> "Programming is the way we turn ideas into actions and dreams into reality."
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Skills & Technologies
 
