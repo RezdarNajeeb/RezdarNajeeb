@@ -58,7 +58,7 @@ class RezdarNajeeb
     public function skillsAndTechnologies (): array
     {
         return [
-            'Skills & Technologies' => [Skills & Technologies](#skills--technologies)
+            'Skills & Technologies' => [Skills & Technologies](https://github.com/RezdarNajeeb/RezdarNajeeb/blob/main/README.md#-skills--technologies)
         ];
     }
 }
