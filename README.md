@@ -3,7 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00B8B5&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Web+Developer;Laravel+Backend+Specialist" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
+    <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="100%" />
+  </picture>
 </div>
 <br/>
 <div align="center">
@@ -63,7 +67,11 @@ class RezdarNajeeb extends Developer
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,java,python,html,css,js,tailwind,flutter,dart,mysql,postman,git,github" />
+  </picture>
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> GitHub Contributions
@@ -79,7 +87,7 @@ class RezdarNajeeb extends Developer
 
 <div align="center">
   <p>Feel free to reach out if you want to:</p>
-  <ul align="left" style="list-style: none;">
+  <ul align="left" style="list-style-type: none; padding-left: 0;">
     <li>🤝 Collaborate on exciting projects</li>
     <li>💬 Discuss web development and tech</li>
     <li>🎯 Explore new opportunities</li>
