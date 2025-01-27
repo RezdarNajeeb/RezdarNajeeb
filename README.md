@@ -83,20 +83,12 @@ class RezdarNajeeb extends Developer
 
 <div align="center">
   <p>Feel free to reach out if you want to:</p>
-  <style>
-    .no-bullets {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-  </style>
-
-  <ul class="no-bullets">
-    <li>🤝 Collaborate on exciting projects</li>
-    <li>💬 Discuss web development and tech</li>
-    <li>🎯 Explore new opportunities</li>
-    <li>📚 Share knowledge and learn together</li>
-  </ul>
+  <div>
+    🤝 Collaborate on exciting projects<br>
+    💬 Discuss web development and tech<br>
+    🎯 Explore new opportunities<br>
+    📚 Share knowledge and learn together
+  </div>
 </div>
 
 <div align="center">
