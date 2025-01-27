@@ -18,7 +18,7 @@
   </a>
 </div>
 
-## <img src="https://www.flaticon.com/free-animated-icon/info_15578616?term=about+me&page=1&position=2&origin=search&related_id=15578616" width="35"> About Me
+## <img src="info.gif" width="35"> About Me
 
 <br/>
 
