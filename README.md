@@ -54,16 +54,9 @@ class RezdarNajeeb
             '2021-2025' => 'Bachelor of Software Engineering'
         ];
     }
-
-    public function skillsAndTechnologies (): array
-    {
-        return [
-            'Skills & Technologies' => [Skills & Technologies](https://github.com/RezdarNajeeb/RezdarNajeeb/blob/main/README.md#-skills--technologies)
-        ];
-    }
 }
 ```
-> **"Programming is the way we turn ideas into actions and dreams into reality."**
+>>> **"Programming is the way we turn ideas into actions and dreams into reality."**
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Skills & Technologies
 
