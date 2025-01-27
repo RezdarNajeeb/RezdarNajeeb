@@ -146,7 +146,7 @@ class RezdarNajeeb extends Developer
 
 ## <img src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="35"> Let's Connect!
 
-<div align="center">
+<div align="left">
   <p>Feel free to reach out if you want to:</p>
   <div align="left">
     🤝 Collaborate on exciting projects<br>
