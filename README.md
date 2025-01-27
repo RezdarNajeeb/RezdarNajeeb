@@ -18,7 +18,7 @@
   </a>
 </div>
 
-## <img src="output-onlinegiftools (1).gif" width="35"> About Me
+## <img src="output-onlinegiftools.gif" width="35"> About Me
 
 <br/>
 
