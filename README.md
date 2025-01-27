@@ -58,28 +58,15 @@ class RezdarNajeeb
         ];
     }
 
-    public function skills(): array
+    public function skillsAndTechnologies (): array
     {
         return [
-            'PHP',
-            'Laravel',
-            'Java',
-            'Python',
-            'HTML',
-            'CSS',
-            'JavaScript',
-            'Tailwind',
-            'Flutter',
-            'Dart',
-            'MySQL',
-            'Postman',
-            'Git',
-            'GitHub'
+            'Skills & Technologies' => '[Skills & Technologies](#skills--technologies)'
         ];
     }
 }
 ```
-> "Programming is the way we turn ideas into actions and dreams into reality."
+> **"Programming is the way we turn ideas into actions and dreams into reality."**
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Skills & Technologies
 
