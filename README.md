@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/rezdar-najeeb-52b794241" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://buymeacoffee.com/rezdar" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" alt="Buy Me a Coffee" />
-  </a>
 </div>
 
 ## <img src="about.gif" width="25"> About Me
