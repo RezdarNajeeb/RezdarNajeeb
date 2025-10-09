@@ -139,11 +139,6 @@ class RezdarNajeeb
   </picture>
 </div>
 
-![Rezdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RezdarNajeeb&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RezdarNajeeb&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RezdarNajeeb&theme=github)
-
-
 ## <img src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="35"> Let's Connect!
 
 <div align="left">
