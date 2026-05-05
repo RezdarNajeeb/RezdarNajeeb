@@ -119,4 +119,3 @@ class RezdarNajeeb
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rezdar)
 
 </div>
-</div>
