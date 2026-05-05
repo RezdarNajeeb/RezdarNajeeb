@@ -1,166 +1,122 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey there! I'm Rezdar
+# Hi there, I'm
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00B8B5&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Web+Developer;Laravel+Backend+Specialist" alt="Typing SVG" />
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
-</div>
-<br/>
-<div align="center">
-  <a href="mailto:rezdar.00166214@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/rezdar-najeeb-52b794241" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
 
-## <img src="about.gif" width="25"> About Me
+```
+██████╗ ███████╗███████╗██████╗  █████╗ ██████╗
+██╔══██╗██╔════╝╚══███╔╝██╔══██╗██╔══██╗██╔══██╗
+██████╔╝█████╗    ███╔╝ ██║  ██║███████║██████╔╝
+██╔══██╗██╔══╝   ███╔╝  ██║  ██║██╔══██║██╔══██╗
+██║  ██║███████╗███████╗██████╔╝██║  ██║██║  ██║
+╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00B8B5&center=true&vCenter=true&width=580&lines=I+Hate+Programming;I+HATE+Programming;It+Works...;I+Love+Programming)](https://git.io/typing-svg)
 
 <br/>
+
+[![Gmail](https://img.shields.io/badge/rezdarnajeeb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezdarnajeeb@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Rezdar%20Najeeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezdar-najeeb-52b794241)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/%2B964%207501406655-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9647501406655)
+
+</div>
+
+---
+
+## `$ whoami`
 
 ```php
 <?php
 
-namespace App\About;
-
 class RezdarNajeeb
 {
-    private string $name;
-    private string $email;
-    private string $phone_number;
+    public string $role   = 'Software Engineer';
+    public string $focus  = 'Backend Architecture';
+    public string $degree = 'B.Sc. Software Engineering · 2021–2025';
 
-    public function __construct()
-    {
-        $this->name = 'Rezdar Najeeb';
-        $this->email = 'rezdar.00166214@gmail.com';
-        $this->phone_number = '07501406655';
-    }
+    public array $experience = [
+        '2024.08 – 2024.09'  => 'Laravel Developer @ Syntax Company',
+        '2024.01 – present'  => 'Freelance Web Developer',
+        '2025.08 – 2025.09'  => 'Full Stack Developer @ UMG',
+        '2025.09 – present'  => 'Backend Developer @ oXero',
+    ];
 
-    public function workExperience(): array
-    {
-        return [
-            '2024.8-2024.9' => 'Laravel Developer at Syntax Company',
-            '2024-now' => 'Web Developer as Freelancer'
-        ];
-    }
-
-    public function education(): array
-    {
-        return [
-            '2021-2025' => 'Bachelor of Software Engineering'
-        ];
-    }
+    public string $quote = '"Turn ideas into actions, dreams into reality."';
 }
 ```
-> *"Programming is the way we turn ideas into actions and dreams into reality."*
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Skills & Technologies
+---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel&theme=light" />
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php&theme=light" />
-    <img src="https://skillicons.dev/icons?i=php" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java&theme=light" />
-    <img src="https://skillicons.dev/icons?i=java" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light" />
-    <img src="https://skillicons.dev/icons?i=python" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light" />
-    <img src="https://skillicons.dev/icons?i=html" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light" />
-    <img src="https://skillicons.dev/icons?i=css" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light" />
-    <img src="https://skillicons.dev/icons?i=js" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light" />
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter&theme=light" />
-    <img src="https://skillicons.dev/icons?i=flutter" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dart&theme=light" />
-    <img src="https://skillicons.dev/icons?i=dart" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postman&theme=light" />
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" />
-    <img src="https://skillicons.dev/icons?i=git" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" />
-    <img src="https://skillicons.dev/icons?i=github" />
-  </picture>
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> GitHub Contributions
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-## <img src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="35"> Let's Connect!
-
-<div align="left">
-  <p>Feel free to reach out if you want to:</p>
-  <div align="left">
-    🤝 Collaborate on exciting projects<br>
-    💬 Discuss web development and tech<br>
-    🎯 Explore new opportunities<br>
-    📚 Share knowledge and learn together
-  </div>
-</div>
+## `$ ls skills/`
 
 <div align="center">
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="100%"/>
+
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**API & Documentation**
+
+![API Platform](https://img.shields.io/badge/API%20Platform-38A3A5?style=flat-square&logo=api-platform&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Mobile & Tools**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=RezdarNajeeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B8B5&icon_color=00B8B5&text_color=c9d1d9&rank_icon=github&cache_seconds=60" />
+<img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RezdarNajeeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B8B5&text_color=c9d1d9&langs_count=6&cache_seconds=60" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=RezdarNajeeb&theme=tokyonight&hide_border=true&background=0d1117&ring=00B8B5&fire=00B8B5&currStreakLabel=00B8B5&sideLabels=00B8B5&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" />
+
+</div>
+
+---
+
+## `$ cat contribution_graph.txt`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/RezdarNajeeb/RezdarNajeeb/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://buymeacoffee.com/rezdar">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
-  </a>
-  <br />
-  <sub>Let's turn coffee into code! ☕️✨</sub>
+
+*Open to collaborations, freelance work, and interesting conversations.*
+**Let's build something great.**
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rezdar)
+
+</div>
 </div>
