@@ -1,14 +1,12 @@
 # Hi there, I'm
 <div align="center">
 
-```
-██████╗ ███████╗███████╗██████╗  █████╗ ██████╗
+<pre>██████╗ ███████╗███████╗██████╗  █████╗ ██████╗
 ██╔══██╗██╔════╝╚══███╔╝██╔══██╗██╔══██╗██╔══██╗
 ██████╔╝█████╗    ███╔╝ ██║  ██║███████║██████╔╝
 ██╔══██╗██╔══╝   ███╔╝  ██║  ██║██╔══██║██╔══██╗
 ██║  ██║███████╗███████╗██████╔╝██║  ██║██║  ██║
-╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝</pre>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00B8B5&center=true&vCenter=true&width=580&lines=I+Hate+Programming;I+HATE+Programming;It+Works...;I+Love+Programming)](https://git.io/typing-svg)
 
